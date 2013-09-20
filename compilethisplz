@@ -1,0 +1,8 @@
+#include <stdio.h>
+ 
+main()
+{
+    printf("Jailbreaking device...");//anounce that device is beving jailbroken
+    //TODO: jailbreak code
+return 0;
+}
